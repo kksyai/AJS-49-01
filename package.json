@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "live-server src",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint",
+    "build": "babel -d dist"
   },
   "keywords": [],
   "author": "",

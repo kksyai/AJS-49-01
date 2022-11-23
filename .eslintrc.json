@@ -16,10 +16,10 @@
             "LabeledStatement",
             "WithStatement"
             ]
-    },
-    "scripts": {
-        "start": "live-server src",
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "lint": "eslint ."
-        }
+    }
+    // "scripts": {
+    //     "start": "live-server .",
+    //     "test": "echo \"Error: no test specified\" && exit 1",
+    //     "lint": "eslint ."
+    //     }
 }
